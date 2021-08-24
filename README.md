@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshit
 - 👀 I’m interested in Automation, cloud & using new technologies
 - 🌱 I’m currently learning Cloud & Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Automation FW development,exploring new technologies & Tools 
 - 📫 You can reach me out at harshitshah156@gmail.com
 
 <!---
