@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Shah</h1>
-<h3 align="center">A passionate Full Stack QA Automation 🚀 having wide experience in designing and building Web & API Automation Framework using Java and some other cool libraries and frameworks.Learnig Mobile Automation (Appium) and inclined towards Cloud world.</h3>
+<h3 align="center">A passionate Full Stack QA Automation 🚀 having wide experience in designing and building Web & API Automation Framework using Java and some other cool libraries and frameworks.Learning Mobile Automation (Appium) and inclined towards Cloud world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitautomation&label=Profile%20views&color=0e75b6&style=flat" alt="harshitautomation" /> </p>
 
