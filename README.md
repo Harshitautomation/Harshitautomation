@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Host your Automation Report on GitHub Pages with Github Actions.](https://harshitshah156.medium.com/host-your-automation-report-on-github-pages-with-github-actions-69f80857bd28?source=rss-7b487f419d25------2)
 - [Testing using Wiremock-Stubbing-Part3](https://harshitshah156.medium.com/testing-using-wiremock-stubbing-part3-bf34aa869e26?source=rss-7b487f419d25------2)
 - [Testing using Wiremock-Configuration-Part2](https://harshitshah156.medium.com/testing-using-wiremock-configuration-part2-f438838f5ba4?source=rss-7b487f419d25------2)
 - [Testing using WireMock-Introduction-Part1](https://harshitshah156.medium.com/testing-using-wiremock-introduction-part1-813e82bca19a?source=rss-7b487f419d25------2)
