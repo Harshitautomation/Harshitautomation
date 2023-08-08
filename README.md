@@ -19,10 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Use of Java Generics in Automation Testing](https://harshitshah156.medium.com/use-of-java-generics-in-automation-testing-dcb37f17125d?source=rss-7b487f419d25------2)
+- [Boost Your Automation Testing Efficiency: Mastering Remote File Operations with Java](https://harshitshah156.medium.com/boost-your-automation-testing-efficiency-mastering-remote-file-operations-with-java-78a34fec2a02?source=rss-7b487f419d25------2)
+- [Harnessing Randomness in JMeter: Generating Random Numbers for API Testing](https://harshitshah156.medium.com/harnessing-randomness-in-jmeter-generating-random-numbers-for-api-testing-f079e7a89ca6?source=rss-7b487f419d25------2)
 - [Host your Automation Report on GitHub Pages with Github Actions.](https://harshitshah156.medium.com/host-your-automation-report-on-github-pages-with-github-actions-69f80857bd28?source=rss-7b487f419d25------2)
 - [Testing using Wiremock-Stubbing-Part3](https://harshitshah156.medium.com/testing-using-wiremock-stubbing-part3-bf34aa869e26?source=rss-7b487f419d25------2)
-- [Testing using Wiremock-Configuration-Part2](https://harshitshah156.medium.com/testing-using-wiremock-configuration-part2-f438838f5ba4?source=rss-7b487f419d25------2)
-- [Testing using WireMock-Introduction-Part1](https://harshitshah156.medium.com/testing-using-wiremock-introduction-part1-813e82bca19a?source=rss-7b487f419d25------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
