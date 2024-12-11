@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Selenium Test Automation with Java 17: Modern Testing Techniques](https://harshitshah156.medium.com/selenium-test-automation-with-java-17-modern-testing-techniques-e67672ad90e7?source=rss-7b487f419d25------2)
 - [GitHub Actions: A Tester’s Secret Weapon for Streamlined Workflows](https://harshitshah156.medium.com/github-actions-a-testers-secret-weapon-for-streamlined-workflows-506d8cbad967?source=rss-7b487f419d25------2)
 - [Elevate Your Load Testing Game: A Guide to Gatling Assertions for Response Verification and…](https://harshitshah156.medium.com/elevate-your-load-testing-game-a-guide-to-gatling-assertions-for-response-verification-and-9153614e28c6?source=rss-7b487f419d25------2)
 - [Uncovering Automation Test Failures: A Fun Guide to Root Cause Analysis ️‍♀️](https://harshitshah156.medium.com/uncovering-automation-test-failures-a-fun-guide-to-root-cause-analysis-%EF%B8%8F-%EF%B8%8F-5231d397742e?source=rss-7b487f419d25------2)
 - [Use of Java Generics in Automation Testing](https://harshitshah156.medium.com/use-of-java-generics-in-automation-testing-dcb37f17125d?source=rss-7b487f419d25------2)
-- [Boost Your Automation Testing Efficiency: Mastering Remote File Operations with Java](https://harshitshah156.medium.com/boost-your-automation-testing-efficiency-mastering-remote-file-operations-with-java-78a34fec2a02?source=rss-7b487f419d25------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
