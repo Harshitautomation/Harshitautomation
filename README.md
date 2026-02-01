@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Can AI Replace Testers? Here’s the One Thing It Can’t Do](https://harshitshah156.medium.com/can-ai-replace-testers-heres-the-one-thing-it-can-t-do-d851096aa032?source=rss-7b487f419d25------2)
 - [Building a Local AI-Powered PDF Chat App with Ollama, LangChain, FAISS &amp; Streamlit](https://harshitshah156.medium.com/building-a-local-ai-powered-pdf-chat-app-with-ollama-langchain-faiss-streamlit-879f1a9c4cf3?source=rss-7b487f419d25------2)
 - [Selenium Test Automation with Java 17: Modern Testing Techniques](https://harshitshah156.medium.com/selenium-test-automation-with-java-17-modern-testing-techniques-e67672ad90e7?source=rss-7b487f419d25------2)
 - [GitHub Actions: A Tester’s Secret Weapon for Streamlined Workflows](https://harshitshah156.medium.com/github-actions-a-testers-secret-weapon-for-streamlined-workflows-506d8cbad967?source=rss-7b487f419d25------2)
 - [Elevate Your Load Testing Game: A Guide to Gatling Assertions for Response Verification and…](https://harshitshah156.medium.com/elevate-your-load-testing-game-a-guide-to-gatling-assertions-for-response-verification-and-9153614e28c6?source=rss-7b487f419d25------2)
-- [Uncovering Automation Test Failures: A Fun Guide to Root Cause Analysis ️‍♀️](https://harshitshah156.medium.com/uncovering-automation-test-failures-a-fun-guide-to-root-cause-analysis-%EF%B8%8F-%EF%B8%8F-5231d397742e?source=rss-7b487f419d25------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
